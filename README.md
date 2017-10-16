@@ -5,6 +5,7 @@ This repo contains assignments for the [Learning Machines](http://www.patrickheb
 1. [Run Length Encoding](run_length_encoding)
 2. [K-Means Clustering](k-meansclustering)
 3. [Perceptron](perceptron)
+4. [Multi-Layer Perceptron](MLP)
 
 Extra:
 
